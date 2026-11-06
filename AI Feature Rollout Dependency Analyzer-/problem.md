@@ -37,3 +37,10 @@ Output:
 # explanation
 Cycle exists:
 0 → 1 → 2 → 0
+
+# complexity 
+Time : O(V + E)
+Space : O(V + E)
+Where:
+V = Features
+E = Dependencies
