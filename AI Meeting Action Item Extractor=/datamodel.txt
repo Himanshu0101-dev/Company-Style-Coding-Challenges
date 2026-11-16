@@ -1,0 +1,6 @@
+data class ActionItem(
+    val assignee: String,
+    val task: String,
+    val dueDate: String,
+    val priority: String
+)
